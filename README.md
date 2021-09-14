@@ -3,6 +3,7 @@
 This is a **C** application to perform security authorisation based on access codes. 
 The program will allow you to encrypt/decrypt pin codes. 
 
+![image](https://user-images.githubusercontent.com/89995670/133335900-e3f143e3-21e0-4cb2-b828-1ea3be601f83.png)
 
 # How to compile
 In order to run the application:
